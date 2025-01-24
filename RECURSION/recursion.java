@@ -113,6 +113,4 @@ public class recursion{
         int n = 10;
         System.out.println(optimizedPower(a,n));
     }
-
-
 }
